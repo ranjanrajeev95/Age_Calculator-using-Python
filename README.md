@@ -1,5 +1,5 @@
 ### Description
-Create an AGE Calculator that will show your age in years, months, and days with the help of the current date. We will use the ***PyWebIO*** module for creating a simple and interactive interface on the web. This is a python module mostly used to create simple and interactive interfaces on the web using Python programming
+Create an AGE Calculator that will show your age in years, months, and days with the help of the current date. We will use the ***PyWebIO*** module for creating a simple and interactive interface on the web. This is a python module mostly used to create simple and interactive interfaces on the web using Python programming.
 
 ### Installation: 
 ```python

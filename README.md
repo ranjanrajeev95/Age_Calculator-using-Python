@@ -1,10 +1,4 @@
-![](http://ForTheBadge.com/images/badges/made-with-python.svg)
-![](https://forthebadge.com/images/badges/built-by-developers.svg)</br>
-[![Prettier](https://img.shields.io/badge/Code%20Style-Prettier-red.svg)](https://github.com/prettier/prettier)
-![Size](https://img.shields.io/github/repo-size/Iamtripathisatyam/Age_Calculator_Web_App?color=red&label=Repo%20Size%20)
-![](https://img.shields.io/tokei/lines/github/Iamtripathisatyam/Age_Calculator_Web_App?color=red&label=Lines%20of%20Code)</br>
-![sds](https://profile-counter.glitch.me/{Age_Calculator_Web_App}/count.svg)
-
+### Description
 Create an AGE Calculator that will show your age in years, months, and days with the help of the current date. We will use the ***PyWebIO*** module for creating a simple and interactive interface on the web. This is a python module mostly used to create simple and interactive interfaces on the web using Python programming
 
 ### Installation: 
